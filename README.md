@@ -4,7 +4,8 @@ Welcome to the iPour Smart Kettle product!
 
 ## Overview
 
-The iPour Smart Kettle is a state-of-the-art kettle that revolutionizes the way you boil water. With advanced features such as temperature control, mobile app connectivity, and sleek design, the iPour Smart Kettle offers a convenient and customizable boiling experience.
+This repository contains the C++ code for the iPour Smart Kettle product. The iPour Smart Kettle is a state-of-the-art kettle that revolutionizes the way you boil water. With advanced features such as temperature control, mobile app connectivity, and sleek design, the iPour Smart Kettle offers a convenient and customizable boiling experience.
+
 
 ![image](https://github.com/Sasanika/iPourSmartKettleESP8266/assets/134100704/28eb2747-0884-4b37-a7c7-3c3787ca8b97)
 
@@ -35,7 +36,7 @@ or
 
 ## Getting Started
 
-To get started with the iPour Smart Kettle, simply unbox the kettle, follow the setup instructions, and download the iPour Smart Kettle mobile app to begin enjoying the benefits of smart boiling.
+To get started with the iPour Smart Kettle product, simply clone this repository to your local machine and follow the instructions in the README file provided.
 
 ## Support
 
