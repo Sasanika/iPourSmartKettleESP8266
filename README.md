@@ -36,8 +36,7 @@ or
 
 ## Getting Started
 
-To get started with the iPour Smart Kettle product, simply clone this repository to your local machine and follow the instructions in the README file provided.
-
+To get started with the iPour Smart Kettle product, simply clone this repository to your local machine.
 ## Support
 
 If you have any questions or need assistance, please contact our support team at ipour4321@gmail.com.
